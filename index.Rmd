@@ -1,11 +1,11 @@
 ---
-title: "Master's Research"
-subtitle: "May-Collado lab at the University of Vermont"
+title: "Emma Gagne"
+subtitle: "Research at the University of Vermont"
 author: Emma Gagne
 output: html_document
 ---
-
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+### Contact
+Emma Gagne  
+Department of Biology  
+University of Vermont
+emma.gagne@uvm.edu
