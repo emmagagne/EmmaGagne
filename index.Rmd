@@ -1,7 +1,6 @@
 ---
 title: "Emma Gagne"
 subtitle: "Master's of Biology Student at the University of Vermont"
-author: Emma Gagne
 output: 
   prettydoc::html_pretty:
     theme: leonids
