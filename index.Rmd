@@ -2,7 +2,10 @@
 title: "Emma Gagne"
 subtitle: "Research at the University of Vermont"
 author: Emma Gagne
-output: html_document
+output: 
+  prettydoc::html_pretty:
+    theme: leonids
+    highlight: github
 ---
 ### Contact
 Emma Gagne  
