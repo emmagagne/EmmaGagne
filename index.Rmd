@@ -33,6 +33,6 @@ University of Vermont. 2020-current. M.Sc Biology Student
 # Contact
 Emma Gagne  
 Department of Biology  
-University of Vermont
-Lab: Marsh Life Science 217
+University of Vermont  
+Lab: Marsh Life Science 217  
 Email: emma.gagne@uvm.edu
