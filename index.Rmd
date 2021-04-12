@@ -16,11 +16,16 @@ I'm currently a master's student in the Accelerated Master's Program of Biology 
 
 [Toadfish Family Acoustic Communication Literature Review](Toadfish Review.pdf)  
 
-[Manuscript: Boat traffic in Bocas Del Toro, Panama associated with selection for lower and louder toadfish (Amphichthys cryptocentrus) calls.](Final Manuscript - Emma Gagne.pdf)  
+[Unpublished Manuscript: Boat traffic in Bocas Del Toro, Panama associated with selection for lower and louder toadfish (Amphichthys cryptocentrus) calls.](Final Manuscript - Emma Gagne.pdf)  
 **Abstract**: The toadfish is an important acoustic contributor to the local marine soundscape of Bocas del Toro.  Toadfish emit mating calls to attract females to their burrows to spawn. Given that male toadfish calling behavior determines their reproductive success, boat traffic is expected to affect their acoustic behavior. This study evaluates the effects of boat traffic on toadfish call acoustic structure by comparing two sites within the Archipelago of Bocas del Toro, Panama that vary in boat traffic. The study finds the potential presence of three acoustic toadfish species that varied in call contour. One of the acoustic species, called here as ‘flat species’ was found in both study sites. Overall, this ‘flat species’ call was significantly shorter in duration, lower in frequency, and higher in amplitude in the site with high boat traffic than in the site with low boat traffic.  The results suggest that noise associated with boat traffic may be selecting for lower and louder signals in noisy habitats. Given the importance of toadfish as health indicators of marine communities these results are important as they indicate how humans are changing their calls and interactions.
+
+[Poster Presentation Toadfish Manuscript](SRC2020.pptx)
 
 
 # Bottlenose dolphin COVID project
+
+[Unpublished Manuscript: Bottlenose dolphin (Tursiops truncatus) whistles indicate less stress during COVID-19 pandemic in Bocas del Toro Archipelago, Panama.](Gagne_Manuscript.pdf)  
+**Abstract**: Previous studies indicate that the bottlenose dolphin population of Dolphin Bay in Bocas del Toro, Panama increase modulation in their whistles when exposed to dolphin-watching boats as an indicator of stress. The COVID-19 pandemic created a unique situation in which their typically popular tourist industry was shut down, and the dolphin-watching boat activity ceased. By examining dolphin whistles in Dolphin Bay before and during the COVID-19 pandemic, we expect to see less modulation during COVID-19 acoustic recordings due to the absence of tourist boats. Using passive acoustic monitoring and Raven software we were able to analyze 139 whistles during COVID and compare them to previously obtained data on whistles before the pandemic. Mann-Whitney tests revealed that there was significantly less modulation in COVID whistles as compared to pre-COVID whistles. Understanding how stress negatively impacts the resident bottlenose dolphins of Bocas del Toro, Panama contributes to previous understanding of boat impacts on this population and provides more evidence for the need to enforce regulations in the region.
 
 
 # Education
@@ -36,3 +41,4 @@ Department of Biology
 University of Vermont  
 Lab: Marsh Life Science 217  
 Email: emma.gagne@uvm.edu
+[researchgate](https://www.researchgate.net/profile/Emma-Gagne)
